@@ -1,3 +1,9 @@
+Truffle v5.5.16 (core: 5.5.16)
+Ganache v^7.1.0
+Solidity - 0.5.1 (solc-js)
+Node v16.17.1
+Web3.js v1.5.3
+
 Starting migrations...
 ======================
 > Network name:    'develop'
