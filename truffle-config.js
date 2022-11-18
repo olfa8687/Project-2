@@ -50,7 +50,7 @@
        port: 8545,            // Standard Ethereum port (default: none)
        network_id: "*",       // Any network (default: none)
      },
-     rinkeby: {
+     mainnet: {
        provider: function () {
          return new HDWallet("wave deny cancel broken island vessel leg slot worth element curtain solar",
          "https://mainnet.infura.io/v3/09f49bdaddc444829ff3cf7ac661c3e6",
