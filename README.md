@@ -18,6 +18,7 @@ To install, download or clone the repo, then:
 
 `npm install`
 `truffle compile`
+```bash
 truffle compile
 
 Compiling your contracts...
@@ -32,7 +33,7 @@ Compiling your contracts...
 > Artifacts written to E:\Blockchain_Developer\newnewProject4\FlightSurety-master\build\contracts
 > Compiled successfully using:
    - solc: 0.4.26+commit.4563c3fc.Emscripten.clang
-
+```
 ## Develop Client
 
 To run truffle tests:
@@ -43,7 +44,7 @@ To run truffle tests:
 To use the dapp:
 
 `truffle migrate`
-
+```bash
 PS E:\Blockchain_Developer\newnewProject4\FlightSurety-master> truffle migrate
 
 Compiling your contracts...
@@ -134,6 +135,7 @@ Summary
 > Total deployments:   3
 > Final cost:          0.1209848 ETH
 
+```
 
 `npm run dapp`
 npm run dapp
