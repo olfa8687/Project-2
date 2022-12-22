@@ -135,11 +135,11 @@ Summary
 > Total deployments:   3
 > Final cost:          0.1209848 ETH
 
-```
+```bash
 
 `npm run dapp`
 npm run dapp
-![npm run dapp](images/npmRunDapp.png)
+
 > flightsurety@1.0.0 dapp
 > webpack-dev-server --mode development --config webpack.config.dapp.js
 
@@ -150,11 +150,13 @@ i ｢wdm｣:    881 modules
 i ｢wdm｣: Compiled successfully.
 i ｢wdm｣: Compiling...
 i ｢wdm｣:    881 modules
-
+```
 
 To view dapp:
 
 `http://localhost:8000`
+
+
 
 ## Develop Server
 
