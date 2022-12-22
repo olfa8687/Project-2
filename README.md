@@ -156,7 +156,7 @@ To view dapp:
 
 `http://localhost:8000`
 
-
+![Alt text](images/flight-information.png)
 
 ## Develop Server
 
